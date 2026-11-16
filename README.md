@@ -1,4 +1,4 @@
-# Flipper Remote
+# flipper
 
 A tiny Android remote for Flipper Zero over Bluetooth. It mirrors the Flipper's screen live and has a d-pad, OK and Back. No dependencies.
 
